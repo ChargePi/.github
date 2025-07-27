@@ -11,18 +11,18 @@ Democratizing EV charging technology through open-source hardware and software s
 
 ### Modular Charging Points
 
-OCPP-compliant charging stations with support for multiple connectors, RFID/NFC readers, displays, and power meters
+- OCPP-compliant, modular charging stations with support for multiple connectors, RFID/NFC readers, displays, and power meters
 
 ### Developer Tools
 
-ChargeFlow CLI for OCPP message analysis and debugging
+- ChargeFlow CLI for OCPP message analysis and debugging
 
 ### Technology Stack
 
-OCPP 1.6, 2.0.1 and also 2.1
-Linux-based architecture
-Cloud native deployment
-Support for off-the-shelf hardware components
+- OCPP 1.6, 2.0.1 and also 2.1
+- Linux-based architecture
+- Cloud native deployment
+- Support for off-the-shelf hardware components
 
 
 Join our community of makers, developers, and EV enthusiasts building the future of sustainable transportation infrastructure.
